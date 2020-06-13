@@ -1,9 +1,9 @@
 # Corona APP
-O projeto CoronaApp trata-se de um aplicativo mobile de de consulta de dados sobre o coronavirus no Brasil.
+O projeto CoronaApp trata-se de um aplicativo mobile de consulta de dados sobre o coronavirus no Brasil.
 
 **Objetivo**
 
-Desenvolver um aplicativo mobile para organizar videoaulas focado em áreas relacionadas ao curso técnico de Desenvolvimento de Sistemas. Neste conterá as seguintes disciplinas selecionadas: Lógica de programação, desenvolvimento de sistemas, desenvolvimento mobile, banco de dados e programação web.
+Desenvolver um aplicativo mobile para exibir as informações sobre o coronavirus em cada estado brasileiro, fornecendo informações do tipo casos confirmados, mortes, suspeitos, recuperados e data de atualização desses dados que são fornecidos pela API.
 
 **Justificativa**
 
@@ -27,19 +27,16 @@ Frameworks:
 
 APIs:
 
-- [YouTube](https://developers.google.com/youtube)
-
-
-**[Documentação detalhada](https://github.com/EmanuelOSSouza/YouFlix/blob/master/Doc/YouFlix.pdf)**
+- [COVID-19 BRAZIL API](https://covid19-brazil-api.now.sh/)
 
 
 **Autores**
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="https://avatars1.githubusercontent.com/u/56510921?s=400&u=7896f90f57edb9075a897ef19e6fb41e047d62c5&v=4" width="100px"> | Emanuel Oliveira Salvador Souza | [Emanuel](https://github.com/EmanuelOSSouza) | [Linkedin](https://www.linkedin.com/in/emanuel-oliveira-souza-ba-ti058a125/) | contato.souza.emanuel@gmail.com
-<img src="" width="100px"> | José Almiro | [José Almiro](https://github.com/ALMAJOE) | [Linkedin](https://www.linkedin.com/in/josé-lima-47ab61186/) | joselimasant@gmail.com
-<img src="" width="100px"> | Luis Felipe | [Luis Felipe](https://github.com/LFSP95) | [Linkedin](www.linkedin.com/in/luispalmeira) | luisfelipevslipe@gmail.com
+<img src="https://avatars1.githubusercontent.com/u/56510921?s=400&u=7896f90f57edb9075a897ef19e6fb41e047d62c5&v=4" width="100px"> | Emanuel Oliveira | [Emanuel](https://github.com/EmanuelOSSouza) | [Linkedin](https://www.linkedin.com/in/emanuel-oliveira-souza-ba-ti058a125/) | contato.souza.emanuel@gmail.com
+<img src="https://avatars2.githubusercontent.com/u/54914945?s=400&u=73f3713c0f0819ddb23a3bc3d819f5caa2630571&v=4" width="100px"> | Paulo Renan Almeida | [Paulo Renan](https://github.com/NannAlmeida) | [Linkedin](https://www.linkedin.com/in/rennanalmeida/) | rennandeveloper@gmail.com
+
 
 
 **Comandos**
