@@ -29,7 +29,7 @@ APIs:
 
 - [COVID-19 BRAZIL API](https://covid19-brazil-api.now.sh/)
 
-
+Link da Documentação: encurtador.com.br/jvwMP
 **Autores**
 
 Foto | Nome | GitHub | Likedin | E-mail
