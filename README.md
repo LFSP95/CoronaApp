@@ -29,7 +29,7 @@ APIs:
 
 - [COVID-19 BRAZIL API](https://covid19-brazil-api.now.sh/)
 
-Link da Documentação: https://encurtador.com.br/jvwMP
+Link da Documentação: https://https://bityli.com/h7HYi
 
 
 **Autores**
